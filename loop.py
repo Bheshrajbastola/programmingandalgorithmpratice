@@ -1,2 +1,4 @@
-for i in [2,3,4,56,78,4]:
-    print(i)
+for x in range (3):
+    print(x)
+else:
+    print("process is finished")
