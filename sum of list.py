@@ -1,5 +1,15 @@
-list=[2,3,4,5,6]
-sum=0
-for i in list:
-    sum=sum+i
-    print(sum)
+
+'''for i in range(5):
+       for j in range(5-i):
+        print('#',end='')
+       print()'''
+
+i=1
+j=1
+while i<=1:
+    while j>=1:
+     print('@',end='')
+    i=i+j
+    break
+
+
