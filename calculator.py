@@ -1,4 +1,5 @@
 def add (num1 , num2):
+    """this is first docstring"""
     return (num1+num2)
 def subtract (num1 , num2):
     return (num1-num2)
@@ -26,7 +27,7 @@ num2=int(input("enter the second number : "))
 
 if select == 1:
     print(num1, "+", num2, "=",
-         add(num1 , num2))
+          add(num1 , num2))
 
 elif select == 2:
     print(num1, "-", num2, "=",
