@@ -1,5 +1,5 @@
 for i in range(3):
-     l=float(input("enter a first number"))
-     b=float(input("enter a second number"))
-area=l*b
-print(area)
+     l=float(input("ent"))
+     b=float(input("eee"))
+     area=l*b
+     print(area)
